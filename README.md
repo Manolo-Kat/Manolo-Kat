@@ -2,7 +2,7 @@
 
 # alive counter
 
-**19** Years | **3** Months | **7** Days | **18** Hours | **38** Minutes | **51** Seconds
+**19** Years | **3** Months | **7** Days | **19** Hours | **1** Minutes | **18** Seconds
 
 <br>
 
